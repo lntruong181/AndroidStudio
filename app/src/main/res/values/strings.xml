@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password_length">Password length</string>
+    <string name="include_lower_case_letters">Include lower case letters</string>
+    <string name="include_upcase_letters1">Include upcase letters</string>
+    <string name="include_number2">Include number</string>
+    <string name="include_special_symbol1">Include special symbol</string>
+    <string name="generate_password1">GENERATE PASSWORD</string>
+</resources>
